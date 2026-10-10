@@ -6,8 +6,8 @@ const SHIP_SPEED := 220.0
 const SHIP_ACCEL := 0.0
 const SHIP_COLOR := "#7fd1ff"
 
-const METEOR_COLOR := "#8a8a9a"
-const METEOR_GLOW := false
+const METEOR_COLOR := "#ff5a3c"
+const METEOR_GLOW := true
 const METEOR_SPEED := 190.0
 ## Extra meteor speed per point of score.
 const METEOR_SPEED_PER_POINT := 0.0
