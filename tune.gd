@@ -18,5 +18,5 @@ const STAR_SPEED := 110.0
 const STAR_EVERY := 0.9
 
 const LIVES := 3
-const HIT_SHAKE := 0.0
-const HIT_SPARKS := 0
+const HIT_SHAKE := 6.0
+const HIT_SPARKS := 18
