@@ -3,7 +3,7 @@ extends RefCounted
 
 const SHIP_SPEED := 220.0
 ## 0 snaps the ship to full speed; higher values ease in and out (pixels per second, squared).
-const SHIP_ACCEL := 0.0
+const SHIP_ACCEL := 900.0
 const SHIP_COLOR := "#7fd1ff"
 
 const METEOR_COLOR := "#ff5a3c"
