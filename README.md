@@ -16,3 +16,7 @@ godot --path . -- --autoplay   # a simple pilot flies (used for recordings)
 ```
 
 The numbers and colors live in `tune.gd`.
+
+---
+
+Built by [Bar Moshe](https://bar-builds.com/?src=gh-star-dodger)
